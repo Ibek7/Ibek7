@@ -2,7 +2,7 @@
 # Hi there, I'm Bekam Guta 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F77C00&center=true&vCenter=true&width=600&lines=Coding+is+Art;Design+is+Passion;Welcome+to+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=F77C00&center=true&vCenter=true&width=600&lines=Coding+is+Art;Design+is+Passion;Welcome+to+My+Profile" alt="Typing SVG" />
 </p>
 
 ---
