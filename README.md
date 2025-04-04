@@ -1,4 +1,3 @@
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
 
 # Hi there, I'm Bekam Guta 👋
 
